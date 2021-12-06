@@ -1,0 +1,18 @@
+.chat {
+	background: #F3F4F6;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	padding: 13px;
+}
+
+.chat_holder {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+}
+
+.chat_holder > div {
+	margin-left: 5px;
+}
